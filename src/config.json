@@ -1,0 +1,7 @@
+{
+    "ApiUrls": 
+    {
+        "baseUrlAzure": "https://managmentsystemapplication.azurewebsites.net/api/",
+        "baseUrl": "https://localhost:7095/api/"
+    }
+}
